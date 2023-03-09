@@ -9,5 +9,5 @@ package lossauces.edd.holamundo;
  * @author daw1
  */
 public class HolaMundo2 {
-    
+    boolean holaMundo=true;
 }
