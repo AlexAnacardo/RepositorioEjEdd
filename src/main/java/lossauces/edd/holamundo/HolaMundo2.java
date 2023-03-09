@@ -10,4 +10,5 @@ package lossauces.edd.holamundo;
  */
 public class HolaMundo2 {
     boolean holaMundo=true;
+    int a=0;
 }
